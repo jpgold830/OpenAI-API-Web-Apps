@@ -1,6 +1,6 @@
 # OpenAI API Web Applications
 
-[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/MaxineXiong)
+[![GitHub](https://badgen.net/badge/icon/GitHub?icon=github&color=black&label)](https://github.com/jpgold830)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://www.python.org)
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-E5E4E2?logo=OpenAI&logoColor=%23000000)](https://openai.com/blog/openai-api)
@@ -10,7 +10,7 @@
 
 Click the badge below to access the web applications:
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/) 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/) 
 
 <br/>
 
@@ -32,28 +32,28 @@ Click the badge below to access the web applications:
 
 ## Project Description
 
-Welcome to the **[unofficial platform for custom web applications powered by OpenAI APIs](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/)**! This repository hosts 
+Welcome to the **[unofficial platform for custom web applications powered by OpenAI APIs](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/)**! This repository hosts 
 a collection of web applications deployed on *[Streamlit Cloud](https://streamlit.io/cloud)*. These applications leverage the capabilities of OpenAI's powerful language models to provide 
 unique functionalities. Currently, the platform includes three web applications:
 
 ### Talk to GPT-3.5
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5) 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5) 
 
-The first web application, **[Talk to GPT-3.5](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5)**, is an interactive chatbot application that allows users to 
+The first web application, **[Talk to GPT-3.5](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5)**, is an interactive chatbot application that allows users to 
 communicate with the model using text messages or speech input. Powered by OpenAI's **Whisper model** for speech-to-text conversion and the **gpt-3.5-turbo model** for generating high-quality 
 responses, this application offers a conversational experience similar to interacting with a human expert. Users also have the option to play the bot's responses in audio format, enhancing 
 the conversational experience with a greater sense of immersion and realism. Additionally, the application provides a variety of built-in prompts that assign roles or personas to the chatbot, 
 providing an effective starting point for each type of conversation, and ensuring that the chatbot will produce the desired responses in an efficient manner.
 
 ### CodeMaxGPT
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/CodeMaxGPT) 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/CodeMaxGPT) 
 
-The second web application, **[CodeMaxGPT](https://maxinexiong.github.io/intro-codemaxgpt.html)**, is designed to provide coding assistance to programmers. Built on OpenAI's gpt-3.5-turbo model, 
+The second web application, **[CodeMaxGPT](https://jpgold830.github.io/intro-codemaxgpt.html)**, is designed to provide coding assistance to programmers. Built on OpenAI's gpt-3.5-turbo model, 
 it is specifically tuned and optimized to cater to the diverse needs of developers, including code generation, debugging, refactoring, and documentation. The platform provides auto-prompts 
 for the GPT model based on various use cases that a user may select. It also features a more user-friendly interface compared to the original [ChatGPT](https://openai.com/blog/chatgpt), allowing users to comfortably enter or 
 paste code and even upload code scripts directly from their local computer. With its user-friendly interface, advanced auto-prompting features, and seamless code uploading capabilities, 
-**[CodeMaxGPT](https://maxinexiong.github.io/intro-codemaxgpt.html)** is the ultimate coding companion. Whether you're a junior developer tackling complex programs or a seasoned pro exploring 
-new languages or frameworks, **[CodeMaxGPT](https://maxinexiong.github.io/intro-codemaxgpt.html)** has you covered.
+**[CodeMaxGPT](https://jpgold830.github.io/intro-codemaxgpt.html)** is the ultimate coding companion. Whether you're a junior developer tackling complex programs or a seasoned pro exploring 
+new languages or frameworks, **[CodeMaxGPT](https://jpgold830.github.io/intro-codemaxgpt.html)** has you covered.
 
 ### DALL·E Image Generator (Unavailable)
 
@@ -64,7 +64,7 @@ of this exciting application.
 
 ## Features
 
-**[Talk to GPT-3.5](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5)** provides the following features:
+**[Talk to GPT-3.5](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5)** provides the following features:
 
 1) Enables communication with the GPT model through either **text messages** or **speech input**.
 
@@ -76,7 +76,7 @@ of this exciting application.
 
 5) Offers a variety of **built-in prompts** that assign roles or personas to the chatbot, provides an effective starting point for each type of conversations, and ensures that the chatbot will produce the desired responses in an efficient manner.
 
-Below are the features offered by **[CodeMaxGPT](https://maxinexiong.github.io/intro-codemaxgpt.html)**:
+Below are the features offered by **[CodeMaxGPT](https://jpgold830.github.io/intro-codemaxgpt.html)**:
 
 1) Built upon OpenAI’s gpt-3.5-turbo model, **specifically tuned and optimized** to provide coding assistance to programmers of all levels.
 
@@ -115,10 +115,10 @@ OpenAI-API-Web-Apps/
 The description of each file and folder in the repository is as follows:
 
 * **.streamlit/**: This folder contains the **config.toml** file, which configures the appearance of the Streamlit web application. The **config.toml** file specifies the theme settings such as primary color, background color, text color, and font.
-* **assets/**: This folder contains additional assets used in the project, including the **cover-page.gif** image file for the cover page. It also includes the **OpenAI-API-Desktop-Chatbot.exe**, which is the desktop version of [**Talk to GPT-3.5**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5). You can find the source code for the desktop application in the [ChatGPT-3.5-Desktop-App](https://github.com/MaxineXiong/ChatGPT-3.5-Desktop-App.git) repository.
+* **assets/**: This folder contains additional assets used in the project, including the **cover-page.gif** image file for the cover page. It also includes the **OpenAI-API-Desktop-Chatbot.exe**, which is the desktop version of [**Talk to GPT-3.5**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5). You can find the source code for the desktop application in the [ChatGPT-3.5-Desktop-App](https://github.com/jpgold830/ChatGPT-3.5-Desktop-App.git) repository.
 * **pages/**: This folder contains the Python code that powers the three web applications. It includes the following Python scripts:
-    - **2_Talk_To_GPT3.5.py**: Python script for the [**Talk to GPT-3.5**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5) web application.
-    - **3_CodeMaxGPT.py**: Python script for the [**CodeMaxGPT**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/CodeMaxGPT) web application.
+    - **2_Talk_To_GPT3.5.py**: Python script for the [**Talk to GPT-3.5**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5) web application.
+    - **3_CodeMaxGPT.py**: Python script for the [**CodeMaxGPT**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/CodeMaxGPT) web application.
     - **4_DALL·E_Image_Generator_(coming_soon).py**: Python script for the **DALL·E Image Generator** web application (coming soon).
 * **Home.py**: This is a Python script for the home page of the Streamlit web applications. It contains code related to the navigation between the three web applications.
 * **packages.txt**: The file manages the project dependencies and is necessary for deploying the web applications on _Streamlit Cloud_.
@@ -130,13 +130,13 @@ The description of each file and folder in the repository is as follows:
 
 ## **Usage**
 
-The web applications are currently hosted on *Streamlit Cloud*. To access the applications, please visit [**OpenAI API Web Applications on Streamlit**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/). Once you visit the URL, you will be presented with a home page where you can select the desired web application. Click on the application you want to use, and it will open in a new tab or window.
+The web applications are currently hosted on *Streamlit Cloud*. To access the applications, please visit [**OpenAI API Web Applications on Streamlit**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/). Once you visit the URL, you will be presented with a home page where you can select the desired web application. Click on the application you want to use, and it will open in a new tab or window.
 
 ### **Get Started with Talk to GPT-3.5**
 
 To use the **Talk to GPT-3.5** application, follow these steps:
 
-1. Visit the [**Talk to GPT-3.5 on Streamlit**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5).
+1. Visit the [**Talk to GPT-3.5 on Streamlit**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/Talk_To_GPT3.5).
 2. Input your [OpenAI API key](https://platform.openai.com/account/api-keys) in the field at the top.
 3. You can start interacting with the chatbot using either the "MESSAGE BOT" or "TALK TO BOT" options.
 4. For text input, click on the "MESSAGE BOT" expander, select a built-in prompt from the dropdown menu, and press CTRL + Enter to submit. The chatbot will respond with a generated message. You can continue the conversation by entering your own messages.
@@ -146,14 +146,14 @@ Below are two GIF images that demonstrate the usage of the **Talk to GPT-3.5** a
 
 
 <p align='center'>
-    <img width=600 src="https://github.com/MaxineXiong/OpenAI-API-Web-Apps/assets/55864839/ca2629b8-5506-42e8-814b-5319429aaf83">
+    <img width=600 src="https://github.com/jpgold830/OpenAI-API-Web-Apps/assets/55864839/ca2629b8-5506-42e8-814b-5319429aaf83">
     <br>Interacting through text messages
 </p>
 
 ###
 
 <p align='center'>
-    <img width=600 src="https://github.com/MaxineXiong/OpenAI-API-Web-Apps/assets/55864839/9d975dc5-5d38-4ee3-8cf2-085249f166fb">
+    <img width=600 src="https://github.com/jpgold830/OpenAI-API-Web-Apps/assets/55864839/9d975dc5-5d38-4ee3-8cf2-085249f166fb">
     <br>Interacting through speech input
 </p>
 
@@ -161,14 +161,14 @@ Below are two GIF images that demonstrate the usage of the **Talk to GPT-3.5** a
 
 To use the **CodeMaxGPT** application, follow these steps:
 
-1. Visit the [**Introducing CodeMaxGPT**](https://maxinexiong.github.io/intro-codemaxgpt.html) webpage.
-2. Click on the "Get started now" button, and you'll be directed to the [**CodeMaxGPT on Streamlit**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/CodeMaxGPT).
+1. Visit the [**Introducing CodeMaxGPT**](https://jpgold830.github.io/intro-codemaxgpt.html) webpage.
+2. Click on the "Get started now" button, and you'll be directed to the [**CodeMaxGPT on Streamlit**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/CodeMaxGPT).
 3. Input your [OpenAI API key](https://platform.openai.com/account/api-keys) in the field at the top.
 4. You can now start interacting with the coding assistant by entering your text message or selecting a request from the dropdown menu. Then, enter, paste, or upload your code as needed.
 5. The coding assistant will provide suggestions, completions, and other assistance based on the request prompt you select and the code you provide.
 6. Feel free to explore the other features of **CodeMaxGPT** to assist you in your coding tasks.
 
-For a detailed demonstration of using **CodeMaxGPT**, please visit the [**introduction page**](https://maxinexiong.github.io/intro-codemaxgpt.html) of the web application.
+For a detailed demonstration of using **CodeMaxGPT**, please visit the [**introduction page**](https://jpgold830.github.io/intro-codemaxgpt.html) of the web application.
 
 <br/>
 
@@ -203,5 +203,5 @@ I would like to acknowledge the following organizations and technologies for the
 
 <br/>
 
-Thank you for choosing to use the [**OpenAI API Web Apps**](https://maxinexiong-openai-api-web-apps-home-xbxlm8.streamlit.app/). I hope that these applications will greatly amplify your programming capabilities and boost your efficiency, both in your work and in your everyday life.
+Thank you for choosing to use the [**OpenAI API Web Apps**](https://jpgold830-openai-api-web-apps-home-xbxlm8.streamlit.app/). I hope that these applications will greatly amplify your programming capabilities and boost your efficiency, both in your work and in your everyday life.
 
